@@ -3,17 +3,17 @@ public class DebugBox
    private int width;
    private int length;
    private int height;
-   private FixDebugBox()
+   public DebugBox()
    {
-      length = 1;
-      width = 1;
-      height = 1;
+      this.length = 1;
+      this.width = 1;
+      this.height = 1;
    }
    public DebugBox(int width, int length, int height)
    {
-      width = width;
-      length = length;
-      height = height;
+      this.width = width;
+      this.length = length;
+      this.height = height;
    }
    public void showData()
    {
