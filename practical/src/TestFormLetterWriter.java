@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FormLetterWriterTest
+public class TestFormLetterWriter
 {
     public static void main(String args[])
     {

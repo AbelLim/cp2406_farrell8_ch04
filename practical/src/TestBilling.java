@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BillingTest
+public class TestBilling
 {
     public static void main(String args[])
     {
